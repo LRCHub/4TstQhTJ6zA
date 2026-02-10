@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "魔法使いエバ",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2026-02-10T14:42:40.304094Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔法使いエバ",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_魔法使いエバ_はるまきごはん.txt"
+    }
+  ]
+}
